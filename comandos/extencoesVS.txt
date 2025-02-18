@@ -2,7 +2,7 @@ VS Code Extenções:
 
 Prittier
 Prisma
-TaylWind
+TailWind (Desinstalar e Instalar Denovo)
 ESLint
 PostCSS
 GitLens

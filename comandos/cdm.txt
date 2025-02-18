@@ -8,3 +8,7 @@ npm install -D ts-node@10.9.2 - baixar biblioteca
 npx prisma db seed - rodar leitor de typescript
 
 postgresql://neondb_owner:npg_hnP8vXuwos5f@ep-ancient-hat-a4rsy2lq-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require
+
+npx shadcn@2.3.0 init - baixar biblioteca shadcn
+> y
+npx shadcn@2.3.0 add button - baixar botao shadcn
