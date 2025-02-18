@@ -12,3 +12,7 @@ postgresql://neondb_owner:npg_hnP8vXuwos5f@ep-ancient-hat-a4rsy2lq-pooler.us-eas
 npx shadcn@2.3.0 init - baixar biblioteca shadcn
 > y
 npx shadcn@2.3.0 add button - baixar botao shadcn
+npx shadcn@2.3.0 add input - baixar input shadcn
+
+npm install -D eslint-plugin-simple-import-sort@12.1.1 - baixar plugin
+npm install -D prettier-plugin-tailwindcss@0.6.5 - prettierXtailwind
