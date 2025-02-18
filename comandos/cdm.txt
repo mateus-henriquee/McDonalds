@@ -1,0 +1,8 @@
+npm install prisma@6.2.1 - baixar prisma
+npm install @prisma/client@6.2.1 - baixar prisma client 
+npm run dev - rodar o servidor
+npx prisma init - iniciar prisma
+npx prisma format - formatar prisma
+npx prisma migrate dev
+
+postgresql://neondb_owner:npg_hnP8vXuwos5f@ep-ancient-hat-a4rsy2lq-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require

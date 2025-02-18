@@ -1,0 +1,9 @@
+VS Code Extenções:
+
+Prittier
+Prisma
+TaylWind
+ESLint
+PostCSS
+GitLens
+Simple Reac Snippets
