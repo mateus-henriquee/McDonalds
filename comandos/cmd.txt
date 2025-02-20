@@ -1,5 +1,6 @@
 npm install prisma@6.2.1 - baixar prisma
 npm install @prisma/client@6.2.1 - baixar prisma client 
+npx prisma generate
 npm run dev - rodar o servidor
 npx prisma init - iniciar prisma
 npx prisma format - formatar prisma
