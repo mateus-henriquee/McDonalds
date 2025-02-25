@@ -7,13 +7,24 @@ npx prisma format - formatar prisma
 npx prisma migrate dev - toda vez que alterar o banco deve executar isso
 npm install -D ts-node@10.9.2 - baixar biblioteca
 npx prisma db seed - rodar leitor de typescript
+npx prisma db pull - 
+
 
 postgresql://neondb_owner:npg_hnP8vXuwos5f@ep-ancient-hat-a4rsy2lq-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require
 
 npx shadcn@2.3.0 init - baixar biblioteca shadcn
 > y
+> New York
+> Neutral
+> yes
+> Use --legacy-peer-deps
+
 npx shadcn@2.3.0 add button - baixar botao shadcn
+> Use --legacy-peer-deps
+> y
+
 npx shadcn@2.3.0 add input - baixar input shadcn
+> y
 
 npm install -D eslint-plugin-simple-import-sort@12.1.1 - baixar plugin
 npm install -D prettier-plugin-tailwindcss@0.6.5 - prettierXtailwind
