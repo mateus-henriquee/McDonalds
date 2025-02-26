@@ -6,4 +6,4 @@ TailWind (Desinstalar e Instalar Denovo)
 ESLint
 PostCSS
 GitLens
-Simple Reac Snippets
+Simple React Snippets

@@ -26,5 +26,38 @@ npx shadcn@2.3.0 add button - baixar botao shadcn
 npx shadcn@2.3.0 add input - baixar input shadcn
 > y
 
+npx shadcn@2.3.0 add card - baixar cards
+Use --legacy-peer-deps
+> y
+
+npx shadcn@2.3.0 add drawer - baixar drawer
+Use --legacy-peer-deps
+> y
+
+npx shadcn@2.3.0 add form - baixar form
+Use --legacy-peer-deps
+> y
+
+npx shadcn@2.3.0 add label - baixar label
+Use --legacy-peer-deps
+> y
+
+npx shadcn@2.3.0 add scroll-area - baixar scroll
+Use --legacy-peer-deps
+> y
+
+npx shadcn@2.3.0 add separator - baixar separator
+Use --legacy-peer-deps
+> y
+
+npx shadcn@2.3.0 add sheet - baixar sheet
+Use --legacy-peer-deps
+> y
+
+npx shadcn@2.3.0 add sonner - baixar sonner
+Use --legacy-peer-deps
+> y
+
+
 npm install -D eslint-plugin-simple-import-sort@12.1.1 - baixar plugin
 npm install -D prettier-plugin-tailwindcss@0.6.5 - prettierXtailwind
